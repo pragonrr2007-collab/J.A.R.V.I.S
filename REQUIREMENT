@@ -1,0 +1,7 @@
+| Component | Requirement             |
+| --------- | ----------------------- |
+| OS        | Windows / Linux / macOS |
+| RAM       | 8GB+ recommended        |
+| Node.js   | v14+                    |
+| Browser   | Chrome / Edge           |
+| Ollama    | Installed               |
